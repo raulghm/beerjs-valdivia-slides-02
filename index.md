@@ -192,7 +192,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory'
 
 # Show me the code
 
-URL proyecto
+Proyecto base: https://github.com/raulghm/beerjs-valdivia-slides-02/tree/master/project
 
 --
 
